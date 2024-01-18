@@ -7,5 +7,6 @@
 </head>
 <body>
    <h1> barber studio 8 </h1>
+   <p>main</p>
 </body>
 </html>
